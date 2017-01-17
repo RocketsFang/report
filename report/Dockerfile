@@ -6,7 +6,7 @@ ENV CATALINA_HOME /usr/share/tomcat7
 
 RUN apt-get update && apt-get install -y openssh-server curl tomcat7 && mkdir -p /var/run/sshd
 
-RUN echo "root:123456" | chpasswd
+RUN echo "root:111" | chpasswd 
 
 COPY ./report.war $CATALINA_BASE/webapps
 
