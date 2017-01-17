@@ -1,6 +1,6 @@
 <executeSets>
 <executeSet>
-<executeSetName>FullyAuto_BPM8012Std_PC_SA_SQL</executeSetName>
+<executeSetName>FullyAuto_8012_SA_SQL</executeSetName>
 <executor>fanghaiw@cn.ibm.com</executor>
 <release>8570CF201703</release>
 <buildLevel>20170113-045414.0</buildLevel>
@@ -8,7 +8,7 @@
 <hasFailed>false</hasFailed>
 </executeSet>
 <executeSet>
-<executeSetName>BPM7500_Std_PC_ND_Oralce</executeSetName>
+<executeSetName>BPM7500_Std_ND_Ora</executeSetName>
 <executor>guanzl@cn.ibm.com</executor>
 <release>8570CF201703</release>
 <buildLevel>20170113-045414.0</buildLevel>
@@ -16,7 +16,7 @@
 <hasFailed>false</hasFailed>
 </executeSet>
 <executeSet>
-<executeSetName>FullyAuto_BPM8560_ADV_ND_DB2</executeSetName>
+<executeSetName>FullyAuto_8560_ND_DB2</executeSetName>
 <executor>zhangshuo@cn.ibm.com</executor>
 <release>8570CF201703</release>
 <buildLevel>20170113-045414.0</buildLevel>
@@ -32,7 +32,7 @@
 <hasFailed>false</hasFailed>
 </executeSet>
   <executeSet>
-<executeSetName>BPM8500Std_PC_SA_SQL</executeSetName>
+<executeSetName>BPM8500Std_SA_SQL</executeSetName>
 <executor>fanghaiw@cn.ibm.com</executor>
 <release>8570CF201703</release>
 <buildLevel>20170115-048914.0</buildLevel>
@@ -40,7 +40,7 @@
 <hasFailed>false</hasFailed>
 </executeSet>
 <executeSet>
-<executeSetName>BPM8000_Std_PC_ND_Oralce</executeSetName>
+<executeSetName>BPM8000_Std_PC_Ora</executeSetName>
 <executor>guanzl@cn.ibm.com</executor>
 <release>8570CF201703</release>
 <buildLevel>20170115-048914.0</buildLevel>
