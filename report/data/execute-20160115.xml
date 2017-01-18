@@ -3,7 +3,7 @@
 <executeSetName>FullyAuto_8012_SA_SQL</executeSetName>
 <executor>fanghaiw@cn.ibm.com</executor>
 <release>8570CF201703</release>
-<buildLevel>20170113-045414.0</buildLevel>
+<buildLevel>20170113-045999.0</buildLevel>
 <status>successful</status>
 <hasFailed>false</hasFailed>
 </executeSet>
